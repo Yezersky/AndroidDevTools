@@ -42,6 +42,12 @@ AndroidDevTools
 
 	* `http://mirrors.neusoft.edu.cn` 端口：80
 
+1. 同济Bminfo安卓镜像服务器地址:
+
+	* `http://bminfor.tongji.edu.cn/` 端口：80
+	
+	* 镜像说明：http://bminfor.tongji.edu.cn/android/
+
 **使用方法**：
 	
 1. 启动 Android SDK Manager ，打开主界面，依次选择『**Tools**』、『**Options...**』，弹出『**Android SDK Manager - Settings**』窗口；
